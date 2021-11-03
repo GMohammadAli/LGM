@@ -2,8 +2,6 @@ import './App.css';
 import {useState} from 'react';
 import "bootstrap/dist/css/bootstrap.min.css";
 
-
-
 const App=()=> {
   const [isLoading, setLoading] = useState(false);
   const [users, setUsers] = useState([]);
