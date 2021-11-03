@@ -41,6 +41,7 @@ const App=()=> {
     <div className="row">
       <h3>Regular Customers</h3>
     {isLoading?(<div className="loader"></div>):null}
+    {isError?(<div>Error Fetching Users...</div>):null}
     {users.map(user=>{
       return(
         <div className="col-sm-4">
