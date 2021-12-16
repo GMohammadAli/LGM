@@ -1,6 +1,6 @@
 # LGM-VIP
 
-I was asked to complete the following two tasks:
+I was asked to complete the following two tasks during my internship program at Let's Grow More:
 
 01] BEGINNER LEVEL TASK
 
